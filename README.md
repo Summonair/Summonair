@@ -12,7 +12,9 @@ i've been learning to code since middle school, i started from investigating min
 
 
 # 💻Tech Stack
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-239120?logo=CSS3&logoColor=white) 
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
 <!--
 **Summonair/Summonair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
