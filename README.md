@@ -17,9 +17,12 @@ i've been learning to code since middle school, i started from investigating min
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white)
 ![REACT](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+
 ![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJs-ea2845?logo=nestjs&logoColor=white)
@@ -28,6 +31,11 @@ i've been learning to code since middle school, i started from investigating min
 ![material](https://img.shields.io/badge/Material--UI-0081CB?logo=mui&logoColor=white)
 ![redux](https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white)
 ![router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)
+
+![BASH](https://img.shields.io/badge/Bash-4EAA25?logo=GNU%20Bash&logoColor=white)
+![TMUX](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=white)
+![powershell](https://img.shields.io/badge/Powershell-2CA5E0?logo=powershell&logoColor=white)
+
 
 ![C](https://img.shields.io/badge/C-00599C?logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
