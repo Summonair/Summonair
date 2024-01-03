@@ -31,18 +31,14 @@ i've been learning to code since middle school, i started from investigating min
 
 ![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-
-
-![BASH](https://img.shields.io/badge/Bash-4EAA25?logo=GNU%20Bash&logoColor=white)
-![TMUX](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=white)
-![powershell](https://img.shields.io/badge/Powershell-2CA5E0?logo=powershell&logoColor=white)
-
-
 ![C](https://img.shields.io/badge/C-00599C?logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 
+![BASH](https://img.shields.io/badge/Bash-4EAA25?logo=GNU%20Bash&logoColor=white)
+![TMUX](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=white)
+![powershell](https://img.shields.io/badge/Powershell-2CA5E0?logo=powershell&logoColor=white)
 
 <!--
 
