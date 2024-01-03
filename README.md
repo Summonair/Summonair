@@ -15,7 +15,19 @@ i've been learning to code since middle school, i started from investigating min
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-239120?logo=CSS3&logoColor=white) 
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 <!--
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
+
 **Summonair/Summonair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
