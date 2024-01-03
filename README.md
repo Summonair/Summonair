@@ -29,6 +29,11 @@ i've been learning to code since middle school, i started from investigating min
 ![redux](https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white)
 ![router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)
 
+![C](https://img.shields.io/badge/C-00599C?logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+
 
 <!--
 
