@@ -1,5 +1,14 @@
-### Hi there 👋
+Hi 👋 My name is Tal Balash
+===========================
 
+Everything developer and devops
+-------------------------------
+
+i've been learning to code since middle school, i started from investigating minecraft mods and ended up coding. I love developing mobile apps & games, websites, scrips, bots, automations and everything else that whispers sweet promises of bug fixes and endless cups of cold brew 🧊☕
+
+* 🌍  I'm based in somewhere in israel
+* ✉️  You can contact me at [tal.balash+dev@gmail.com](mailto:tal.balash+dev@gmail.com)
+* 🧠  I'm learning flutter & unity 3d
 <!--
 **Summonair/Summonair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
