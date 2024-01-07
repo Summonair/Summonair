@@ -1,7 +1,7 @@
 Hi 👋 My name is Tal Balash
 ===========================
 
-I turn coffe into shiny apps and websites
+I turn coffee into shiny apps and websites
 ---------------------------------------------
 
 i've been learning to code since middle school, i started from investigating minecraft mods and ended up coding. I love developing mobile apps & games, websites, scrips, bots, automations and everything else that whispers sweet promises of bug fixes and endless cups of cold brew 🧊☕
