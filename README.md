@@ -12,6 +12,19 @@ i've been learning to code since middle school, i started from investigating min
 
 
 # 💻Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,redux,angular,nestjs,express,vite,materialui,graphql)](https://skillicons.dev)
+# 💻 Devops Stack
+[![My Skills](https://skillicons.dev/icons?i=openshift,openstack,docker,nginx,kubernetes,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=elasticsearch,postgres)](https://skillicons.dev)
+
+
+# ⚡ Just For Fun
+[![My Skills](https://skillicons.dev/icons?i=unity,flutter,dart,android)](https://skillicons.dev)
+
+<!--
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-239120?logo=CSS3&logoColor=white) 
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
@@ -39,16 +52,6 @@ i've been learning to code since middle school, i started from investigating min
 ![BASH](https://img.shields.io/badge/Bash-4EAA25?logo=GNU%20Bash&logoColor=white)
 ![TMUX](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=white)
 ![powershell](https://img.shields.io/badge/Powershell-2CA5E0?logo=powershell&logoColor=white)
-
-<!--
-
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
 
 **Summonair/Summonair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
