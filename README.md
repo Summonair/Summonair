@@ -12,13 +12,13 @@ i've been learning to code since middle school, i started from investigating min
 
 
 # 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,redux,angular,nestjs,express,vite,materialui,graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,redux,angular,nestjs,express,vite,materialui,graphql)]()
 
 # 🔁 Devops Stack
-[![My Skills](https://skillicons.dev/icons?i=openshift,openstack,docker,nginx,kubernetes,git,bash,powershell,elasticsearch,postgres)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=openshift,openstack,docker,nginx,kubernetes,git,bash,powershell,elasticsearch,postgres)]()  
 
 # ⚡ Just For Fun
-[![My Skills](https://skillicons.dev/icons?i=unity,flutter,dart,android)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,flutter,dart,android)]()
 
 <!--
 
