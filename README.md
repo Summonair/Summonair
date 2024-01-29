@@ -8,7 +8,7 @@ i've been learning to code since middle school, i started from investigating min
 
 * 🌍  I'm based somewhere in israel
 * ✉️  You can contact me at [tal.balash+dev@gmail.com](mailto:tal.balash+dev@gmail.com)
-* 🧠  I'm learning flutter & unity 3d
+* 🧠  I'm currently learning flutter & unity 3d
 
 
 # 💻 Tech Stack
