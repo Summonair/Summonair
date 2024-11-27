@@ -10,7 +10,7 @@ i've been learning to code since middle school, i started from investigating min
 * ✉️  You can contact me at [tal.balash+dev@gmail.com](mailto:tal.balash+dev@gmail.com)
 * 🧠  I'm currently learning flutter & unity 3d
 
-<a href="https://app.daily.dev/summonair"><img src="./devcard.png" width="356" alt="Summonair's Dev Card"/></a>
+<a href="https://app.daily.dev/summonair">![Summonair's Dev Card](./devcard.png "Summonair's Dev Card")</a>
 
 # 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,redux,angular,nestjs,express,vite,materialui,graphql)]()
